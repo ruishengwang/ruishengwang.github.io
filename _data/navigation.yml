@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "Biography"
+    url: "/#biography"
+
+  - title: "Background"
+    url: "/#background"
+
+  - title: "Research"
+    url: "/#research"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Current team"
+    url: "/#current-team"
+
+  - title: "Awards"
+    url: "/#awards"
+
+  - title: "Publications"
+    url: "/#publications"
+
+#  - title: "Invited Talks"
+#    url: "/#-invited-talks"
+#
+#  - title: "Internships"
+#    url: "/#-internships"
