@@ -118,24 +118,25 @@ Photogrammetric Engineering & Remote Sensing.
 
 
 - **Other Peer-reviewed Full Conference Papers** (e.g., reviewed abstracts)
-1.	Haowen Yan, Xiaomin Lu, Ruisheng Wang, Hailun Yan, 2022, Similarity-based principles in map generalization, in the Proceedings of FIG Congress 2022, September 11-15, 2022, Warsaw, Poland. 
-2.	Hailun Yan and Ruisheng Wang, 2022. Automated Building Extraction from Aerial Images with An Improved End-To-End Deep-Learning-Based Approach. The FIG Congress 2022, 11-15 September, Warsaw, Poland.
-3.	L. Xie, and R. Wang, 2017. "Automatic indoor building reconstruction from mobile laser scanning data", Indoor3D 2017, Sept 19-20, 2017, East Lake International Conference Center, Wuhan, Hubei, China (ZHIZHOU Best Poster Paper Award).
-4.	S. Xia and R. Wang, 2017. “A Ground Removal Method for Mobile LiDAR Data”. The 25th International Conference on Geoinformatics, Aug 2-4, Buffalo, NY (extended abstract).
-5.	S. Xu and R. Wang, 2016. "Boundary Depth Information Using Hopfield Neural Network", Proceedings of XXIII ISPRS Congress, Prague, 12th July - 19th July.
-6.	H. Zheng, R. Wang, F. Tan, 2016 "Pole-like Object Extraction from Mobile LiDAR Data", Proceedings of XXIII ISPRS Congress, Prague, 12th July - 19th July.
-7.	R. Wang, 2016. "Road Infrastructure Mapping from Mobile LiDAR Data", International LiDAR Mapping Forum, FEBRUARY 22-24, Denver, Colorado, USA (Oral presentation with abstract).
-8.	C. Hu, W. Wei, S. Qin, X. Wang, A. Habib, R. Wang, 2015. "Indoor Integrated Navigation and Synchronous Data Acquisition Method for Android Smartphone", The International Conference on Optical Instruments and Technology (OIT'2015), 17-19 May, Beijing, China. 
-9.	Wang, R., and Ferrie, F.P., 2008. Self-Calibration and Metric Reconstruction from Single Images. The Proceedings of XXIth ISPRS Congress, 3-11 July, Beijing, China (Oral).
-10.	Wang, R., Tao, V., and Ferrie, F.P., 2007. Non-rigid Space Resection by Parameterized Models, the 7th International Workshop of Geographical Information System (IWGIS'07), September 14-15, Beijing, China (Oral).
-11.	Wang, R., G. Sohn, Tao, V., and Li, J. 2006. 3D Object Reconstruction from Non- georeferenced Monocular Imagery, ASPRS Annual Conference, May 1-5, Reno, Nevada, 12p. (Oral).
-12.	Hu, Y., Wu, H., Wang, R., St-Onge, B., 2006. Locating targets under perspective projection with genetic algorithms and tabu search, ASPRS Annual Conference, 1-5 May, Reno, 12 p.
-13.	Hu, Y., Gao, Y., St-Onge, B., Wang, R., 2006. Detection of multiple outliers by random robust testing, ASPRS Annual Conference, 1-5 May, Reno, 12 p.
-14.	Wang, R., Hu, Y., and Tao, V., 2005. Comparison of Rational Function Model-Based 3D Reconstruction Algorithms, 13th International Conference on Geoinformatics, 17- 19 August, Toronto, Canada (Oral).
-15.	Hu, Y., Xia, W., Hu, X., and Wang, R., 2005. Object Recognition Through Template Matching Using an Adaptive and Robust Hausdorff Distance. ASPRS Annual Conference, 7-11 March 2005, Baltimore, 12 p.
-16.	Zhang, Y. and Wang, R., 2004. Multi-Resolution and Multi-Spectral Image Fusion for Urban Object Extraction. Proceedings of XXth ISPRS Congress, Commission III, 12- 24 July 2004, Istanbul, Turkey, pp. 960-966. (Best Poster Award)
-17.	Wang, R. and Y. Zhang, 2003. Semi-Automated Road Extraction from QuickBird Imagery. ISPRS Joint Workshop on Spatial-Temporal and Multi-Dimensional Data Modeling and Analysis, October, 2-3, 2003, Quebec, Canada (Oral).
-18.	Wang, R. and Y. Zhang, 2003. Extraction of Urban Road Network Using QuickBird Pan-Sharpened Multispectral and Panchromatic Imagery by Performing Edge-aided Post-Classification. ISPRS Joint Workshop on Spatial-Temporal and Multi-Dimensional Data Modeling and Analysis, October, 2-3, 2003, Quebec, Canada (Oral).
+1. Lu Dening, Xu Linlin, Ruisheng Wang, Li Jonathan, 2025. Exploring State Space Models in LiDAR Point Cloud Processing for Vegetation Coverage Assessment, ISPRS Archives, Geospatial Week 2025, Dubai, UAE (GSW 2025).
+2. Haowen Yan, Xiaomin Lu, Ruisheng Wang, Hailun Yan, 2022, Similarity-based principles in map generalization, in the Proceedings of FIG Congress 2022, September 11-15, 2022, Warsaw, Poland. 
+3.	Hailun Yan and Ruisheng Wang, 2022. Automated Building Extraction from Aerial Images with An Improved End-To-End Deep-Learning-Based Approach. The FIG Congress 2022, 11-15 September, Warsaw, Poland.
+4.	L. Xie, and R. Wang, 2017. "Automatic indoor building reconstruction from mobile laser scanning data", Indoor3D 2017, Sept 19-20, 2017, East Lake International Conference Center, Wuhan, Hubei, China (ZHIZHOU Best Poster Paper Award).
+5.	S. Xia and R. Wang, 2017. “A Ground Removal Method for Mobile LiDAR Data”. The 25th International Conference on Geoinformatics, Aug 2-4, Buffalo, NY (extended abstract).
+6.	S. Xu and R. Wang, 2016. "Boundary Depth Information Using Hopfield Neural Network", Proceedings of XXIII ISPRS Congress, Prague, 12th July - 19th July.
+7.	H. Zheng, R. Wang, F. Tan, 2016 "Pole-like Object Extraction from Mobile LiDAR Data", Proceedings of XXIII ISPRS Congress, Prague, 12th July - 19th July.
+8.	R. Wang, 2016. "Road Infrastructure Mapping from Mobile LiDAR Data", International LiDAR Mapping Forum, FEBRUARY 22-24, Denver, Colorado, USA (Oral presentation with abstract).
+9.	C. Hu, W. Wei, S. Qin, X. Wang, A. Habib, R. Wang, 2015. "Indoor Integrated Navigation and Synchronous Data Acquisition Method for Android Smartphone", The International Conference on Optical Instruments and Technology (OIT'2015), 17-19 May, Beijing, China. 
+10.	Wang, R., and Ferrie, F.P., 2008. Self-Calibration and Metric Reconstruction from Single Images. The Proceedings of XXIth ISPRS Congress, 3-11 July, Beijing, China (Oral).
+11.	Wang, R., Tao, V., and Ferrie, F.P., 2007. Non-rigid Space Resection by Parameterized Models, the 7th International Workshop of Geographical Information System (IWGIS'07), September 14-15, Beijing, China (Oral).
+12.	Wang, R., G. Sohn, Tao, V., and Li, J. 2006. 3D Object Reconstruction from Non- georeferenced Monocular Imagery, ASPRS Annual Conference, May 1-5, Reno, Nevada, 12p. (Oral).
+13.	Hu, Y., Wu, H., Wang, R., St-Onge, B., 2006. Locating targets under perspective projection with genetic algorithms and tabu search, ASPRS Annual Conference, 1-5 May, Reno, 12 p.
+14.	Hu, Y., Gao, Y., St-Onge, B., Wang, R., 2006. Detection of multiple outliers by random robust testing, ASPRS Annual Conference, 1-5 May, Reno, 12 p.
+15.	Wang, R., Hu, Y., and Tao, V., 2005. Comparison of Rational Function Model-Based 3D Reconstruction Algorithms, 13th International Conference on Geoinformatics, 17- 19 August, Toronto, Canada (Oral).
+16.	Hu, Y., Xia, W., Hu, X., and Wang, R., 2005. Object Recognition Through Template Matching Using an Adaptive and Robust Hausdorff Distance. ASPRS Annual Conference, 7-11 March 2005, Baltimore, 12 p.
+17.	Zhang, Y. and Wang, R., 2004. Multi-Resolution and Multi-Spectral Image Fusion for Urban Object Extraction. Proceedings of XXth ISPRS Congress, Commission III, 12- 24 July 2004, Istanbul, Turkey, pp. 960-966. (Best Poster Award)
+18.	Wang, R. and Y. Zhang, 2003. Semi-Automated Road Extraction from QuickBird Imagery. ISPRS Joint Workshop on Spatial-Temporal and Multi-Dimensional Data Modeling and Analysis, October, 2-3, 2003, Quebec, Canada (Oral).
+19.	Wang, R. and Y. Zhang, 2003. Extraction of Urban Road Network Using QuickBird Pan-Sharpened Multispectral and Panchromatic Imagery by Performing Edge-aided Post-Classification. ISPRS Joint Workshop on Spatial-Temporal and Multi-Dimensional Data Modeling and Analysis, October, 2-3, 2003, Quebec, Canada (Oral).
 
 - **Peer-reviewed Book Chapter/Entry**
 1. Wang, R. 2016. Ground Based LiDAR. In The International Encyclopedia of Geography, edited by Douglas Richardson. Malden, Oxford: John Wiley and Sons, Ltd.
