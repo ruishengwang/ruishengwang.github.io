@@ -5,7 +5,7 @@
 ### [Hobbies](https://www.youtube.com/watch?v=snbbwyUWuLM)
 
 ## More Information
-- **Peer-reviewed Journal Papers**  
+- **Peer-reviewed Journal Papers**   
 1. Wuyong Tao, Zhiquan Wu, Ruisheng Wang, Xianghong Hua, Shaoping Xu, Zhiping Chen, Danhua Min，2025.  A Correspondence Selection Method by Updating Compatibility Matrix for Point Cloud Registration. IEEE Transactions on Geoscience and Remote Sensing. 10.1109/TGRS.2025.3604617
 2. Bo Guo，Zhihai Huang，Shengjun Tang, Naftaly Wambugu，Wenchao Guo，Ruisheng Wang, Xiaolong Deng, Alex Hay-Man NG, 2025. An Efficient Multi-scale Transformer Network with Fusion-attention for Point Cloud Semantic Segmentation in Urban Environments.Photogrammetric Engineering & Remote Sensing.
 3. Wuyong Tao, Ruisheng Wang, Xianghong Hua, Jingbin Liu, Xijiang Chen, Yufu Zang, Dong Chen, Dong Xu, Bufan Zhao, 2025. Handcrafted local feature descriptor-based point cloud registration and its applications: a review. IEEE Transactions on Visualization and Computer Graphics, 10.1109/TVCG.2025.356989.
