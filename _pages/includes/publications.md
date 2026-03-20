@@ -6,7 +6,7 @@
 
 ## More Information
 - **Peer-reviewed Journal Papers**   
-1.Jinpeng Li, Yuan Li, Yiping Chen, Hongchao Fan, Ruisheng Wang, 2026. City-scale building instance segmentation from LiDAR point clouds via structure-aware method. International Journal of Applied Earth Observation and Geoinformation, Volume 146, Pages 105086, Elsevier.
+1. Jinpeng Li, Yuan Li, Yiping Chen, Hongchao Fan, Ruisheng Wang, 2026. City-scale building instance segmentation from LiDAR point clouds via structure-aware method. International Journal of Applied Earth Observation and Geoinformation, Volume 146, Pages 105086, Elsevier.
 2. Chong Wu, Tieding Lu, Shaoquan Feng, Ruisheng Wang, Wuyong Tao, Xijiang Chen, Bufan Zhao, Xianghong Hua, 2026. Robust regularization of UAV building contours using a corner-based density peak approach. Measurement, Volume 261, Page 120010, Elsevier.
 3. Wuyong Tao, Zhiquan Wu, Ruisheng Wang, Xianghong Hua, Shaoping Xu, Zhiping Chen, Danhua Min，2025.  A Correspondence Selection Method by Updating Compatibility Matrix for Point Cloud Registration. IEEE Transactions on Geoscience and Remote Sensing. 10.1109/TGRS.2025.3604617
 4. Bo Guo，Zhihai Huang，Shengjun Tang, Naftaly Wambugu，Wenchao Guo，Ruisheng Wang, Xiaolong Deng, Alex Hay-Man NG, 2025. An Efficient Multi-scale Transformer Network with Fusion-attention for Point Cloud Semantic Segmentation in Urban Environments.Photogrammetric Engineering & Remote Sensing.
