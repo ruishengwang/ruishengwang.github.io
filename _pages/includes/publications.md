@@ -93,7 +93,7 @@
 
 - **Peer-reviewed Full Conference Papers**
 1. Xiang Ao, Ruisheng Wang, Yujun Liu, Nan Wang, Jinqun Xiao, Pituan Wu, Peicheng Zhou, Xian Qin, 2026. Dynamic Intra-inter Partition Learning for Building Reconstruction from Point Clouds. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 4-8 May 2026, Barcelona, Spain.
-2. Xiaofei He, Ruishen Wang, Yujun Liu, Tsz Nam Chan, Yibin Tian, Tiezhu Shi, Yuzhou Zhang, 2026. A Large-scale Dataset for Multi-Class Geospatial Object Vectorization. IGARSS 2026, Washington, D.C. 9 - 14 August 2026.
+2. Xiaofei He, Ruisheng Wang, Yujun Liu, Tiezhu Shi, Yuzhou Zhang, Tsz Nam Chan, Yibin Tian,  2026. A Large-scale Dataset for Multi-Class Geospatial Object Vectorization. IGARSS 2026, Washington, D.C. 9 - 14 August 2026.
 3. Zhongrui Xiao, Xinlin Wu, Zhiyuan Zhang, Ruisheng Wang, Zhi Zeng, Yibin Tian, 2026. ILSF-Net: A Lightweight Image-LiDAR Sparse Fusion Network for 3D Object Detection. IEEE International Conference on Multimedia and Expo (ICME 2026), 5-9 July 2026, Bangkok, Thailand.
 4. Yujun Liu, Ruisheng Wang, Xiang Ao, Haoyuan Shen, Kuihao Wang, Kun Zhou, Qingquan Li, 2026. Edges Compete for Trust: Group Relative Edge Optimization for Building Reconstruction from Point Clouds, CVPR 2026.
 5. Yuzhou Liu, Lingjie Zhu, Hanqiao Ye, Yujun Liu, Shangfeng Huang, Xiang Gao, Ruisheng Wang, Shuhan Shen, 2026. BuildingGPT: Auto-Regressive Building Wireframe Reconstruction Model with Reinforcement Learning, CVPR 2026.
