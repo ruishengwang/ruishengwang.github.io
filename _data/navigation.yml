@@ -12,9 +12,6 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Current team"
-    url: "/#current-team"
-
   - title: "Awards"
     url: "/#awards"
 
