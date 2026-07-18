@@ -1,5 +1,5 @@
 # Awards
-- Top 2% scientist by Stanford/Elsevier 2024
+- Top 2% scientist by Stanford/Elsevier 2025
 - Pengcheng Peacock Distinguished Professor 2024
 - Smart City Technology Innovation Awards, Silver Medal, International Society of Urban Informatics (ISUI) 2023
 - Sameul Gamble Award, International Society for Photogrammetry and Remote Sensing (ISPRS). 2022 
