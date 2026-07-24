@@ -4,7 +4,9 @@
 
 - Co-Lead organizer: [2nd Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics](https://usm3d.github.io/2025/), in Conjunction with CVPR 2025.  
 
-- Co-Lead organizer:[1st Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics](https://usm3d.github.io/2024/), in Conjunction with CVPR 2024.
+- Co-Lead organizer: [1st Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics](https://usm3d.github.io/2024/), in Conjunction with CVPR 2024.
+
+- Gneral Co-Chair, [Laser Scanning 2023](https://gsw2023.com/index.php/project/laser-scanning-2023/)
 
 - [BuildingWorld: A Global Structured 3D Building Dataset for Urban Foundation Models.](https://lidarmag.com/2026/02/16/buildingworld-a-global-structured-3d-building-dataset-for-urban-foundation-models/) LiDAR Magazine (2026)
 
