@@ -1,10 +1,10 @@
 # News
 
-- Co-Lead organizer: [3rd Workshop on Urban Scene Modeling: Structured, Semantic, and Synthetic 3D Habitats](https://usm3d.github.io/),  in Conjunction with CVPR 2026.
+- Co-Lead organizer: [3rd Workshop on Urban Scene Modeling: Structured, Semantic, and Synthetic 3D Habitats](https://usm3d.github.io/),  in conjunction with CVPR 2026.
 
-- Co-Lead organizer: [2nd Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics](https://usm3d.github.io/2025/), in Conjunction with CVPR 2025.  
+- Co-Lead organizer: [2nd Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics](https://usm3d.github.io/2025/), in conjunction with CVPR 2025.  
 
-- Co-Lead organizer: [1st Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics](https://usm3d.github.io/2024/), in Conjunction with CVPR 2024.
+- Co-Lead organizer: [1st Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics](https://usm3d.github.io/2024/), in conjunction with CVPR 2024.
 
 - General Co-Chair, [Laser Scanning 2023](https://gsw2023.com/index.php/project/laser-scanning-2023/), in conjunction with ISPRS Geospatial Week 2023.
 
