@@ -1,6 +1,7 @@
 # News
 
 - General Chair: [The 10th China LiDAR Conference](https://www.lidar2026shenzhen.com/reg.php), Shenzhen, China, Oct 30 - Nov 1, 2026.
+- Chair, Tutorial on Urban Scene Modeling, [XXV ISPRS Congress](https://www.isprs2026toronto.com/), Toronto, Canada, July 4 –11, 2026.
 - Co-Lead organizer: [3rd Workshop on Urban Scene Modeling: Structured, Semantic, and Synthetic 3D Habitats](https://usm3d.github.io/),  in conjunction with CVPR 2026.
 
 - Co-Lead organizer: [2nd Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics](https://usm3d.github.io/2025/), in conjunction with CVPR 2025.  
