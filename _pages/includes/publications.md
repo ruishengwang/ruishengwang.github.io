@@ -6,8 +6,8 @@
 
 ## More Information
 - **Peer-reviewed Journal Papers**   
-1.Yan, H., Wang, R, 2026. Poly R-CNN: Efficient large-scale boundary-regularized building footprint extraction from remote sensing images, Earth Science Informatics 19 (9), 145.    
-2.Mwubahimana, Boaz and Miao, Dingruibo and Jianguo, Yan and Ma, Le and Dukundane, Remy and Huang, Xiao and Roy, Swalpa Kumar and Wang, Ruisheng, 2026. TagParaFormer: Cross-Hybrid Attention Learning framework for Topology-Aware Road Network Extraction from Remote Sensing Imagery, IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2026.3707401.
+1. Yan, H., Wang, R, 2026. Poly R-CNN: Efficient large-scale boundary-regularized building footprint extraction from remote sensing images, Earth Science Informatics 19 (9), 145.    
+2. Mwubahimana, Boaz and Miao, Dingruibo and Jianguo, Yan and Ma, Le and Dukundane, Remy and Huang, Xiao and Roy, Swalpa Kumar and Wang, Ruisheng, 2026. TagParaFormer: Cross-Hybrid Attention Learning framework for Topology-Aware Road Network Extraction from Remote Sensing Imagery, IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2026.3707401.
 3.Haoyuan Shen, Kuihao Wang, Ruisheng Wang, Yujun Liu, 2026. PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Digital Object Identifier: 10.1109/JSTARS.2026.3715686.
 4.Naftaly Wambugu, Ruisheng Wang, Tiezhu Shi, Tsz Nam Chan, Jianing Fei, Yuzhou Zhang, Jiawei Zhou, Zhichun Jia, Bo Guo, 2026. Leveraging multisource data in GeoAI frameworks for urban analysis. Challenges, opportunities, and future directions, ISPRS Open Journal of Photogrammetry and Remote Sensing, pages 100128.
 5.Naftaly Wambugu, Ruisheng Wang,  Tsz Nam Chan, 2026. LLFA-Net: A collaborative CNN-Transformer framework for land cover classification using high-resolution remote sensing images, Modeling Earth Systems and Environment. 
