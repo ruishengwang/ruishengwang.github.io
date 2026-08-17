@@ -8,7 +8,7 @@
 
 - Co-Lead organizer: [1st Workshop on Urban Scene Modeling: Where Vision Meets Photogrammetry and Graphics](https://usm3d.github.io/2024/), in conjunction with CVPR 2024.
 
-- Vice Chair, LiDAR Committee, Chinese National Committee of the International Society for Digital Earth (CNISDE, 2024 - 2027) 
+- Vice Chair, LiDAR Committee, Chinese National Committee of the International Society for Digital Earth (CNISDE）, 2024 - 2027. 
 - General Co-Chair, [Laser Scanning 2023](https://gsw2023.com/index.php/project/laser-scanning-2023/), in conjunction with ISPRS Geospatial Week 2023.
 - Chair, [Commission on Geospatial Data Analytics](https://icaci.org/commissions/), International Cartography Association (ICA), 2023 - 2027.
 - [BuildingWorld: A Global Structured 3D Building Dataset for Urban Foundation Models.](https://lidarmag.com/2026/02/16/buildingworld-a-global-structured-3d-building-dataset-for-urban-foundation-models/) LiDAR Magazine (2026)
