@@ -1,5 +1,5 @@
 # Educational Background
-- **McGill University**
+- **McGill University, Canada**
     
     PhD Electrical and Computer Engineering
 
