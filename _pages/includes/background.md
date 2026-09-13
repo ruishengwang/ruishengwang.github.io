@@ -3,11 +3,11 @@
     
     PhD Electrical and Computer Engineering
 
-- **University of New Brunswick**
+- **University of New Brunswick, Canada**
     
     MSc.E Geomatics Engineering
 
-- **Wuhan University**
+- **Wuhan University, China**
     
     BEng Photogrammetry and Remote Sensing
 
