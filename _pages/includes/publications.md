@@ -97,7 +97,7 @@
 
 
 - **Peer-reviewed Full Conference Papers**
-1. Abdullah Azeem, Ruisheng Wang, Qingquan Li, Abubakar Siddique, 2026. Geometry-Aware Flow Matching for Sparse-View 3D Gaussian Splatting, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026).
+1. Abdullah Azeem, Ruisheng Wang, Qingquan Li, Abubakar Siddique, 2026. Geometry-Aware Flow Matching for Sparse-View 3D Gaussian Splatting, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
 2. Yunxiao Chen, Honghuan Lin, Ruisheng Wang, Yujun Liu, Kun Zhou, Shangfeng Huang, Tsz Nam Chan, 2026. PanoHK360: A Large-Scale 8K Urban Panoramic Dataset and Benchmark for Depth Estimation, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
 3. Y Zhong, TN Chan, LH U, D Wu, W Tu, R Wang, JZ Huang, 2026. MASS: A Complexity-Optimal Solution for Product Kernel Density Visualization. KDD 2026, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, pages 6829-6840.
 4. H. Ye, TN Chan, D. Wu, LH U, R. Wang, 2026. An Efficient and Accurate Grid Compression Solution for Point-to-Line Nearest Neighbor Search. KDD 2026, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, pages 6152 - 6163.  
