@@ -1,7 +1,7 @@
 # News
 
 - General Co-Chair, Workshop on Semantic Scene Analysis and 3D Reconstruction from Images and Image Sequences(Semantics3D), in conjunction with [ISPRS Geospatial Week 2027](https://www.gsw2027.pl/), Warsaw, Poland, Sep. 19-24, 2027.
-- Chair, ISPRS Working Group II/2 on Point Cloud Processing and Generation (2026 - 2030) 
+- Chair, [ISPRS Working Group II/2](https://commissions.isprs.org/comm2/) on Point Cloud Processing and Generation (2026 - 2030) 
 - General Chair: [The 10th China LiDAR Conference](https://www.lidar2026shenzhen.com/reg.php), Shenzhen, China, Oct 30 - Nov 1, 2026.
 - Chair, Tutorial on Urban Scene Modeling, [XXV ISPRS Congress](https://www.isprs2026toronto.com/), Toronto, Canada, July 4 –11, 2026.
 - Co-Lead organizer: [3rd Workshop on Urban Scene Modeling: Structured, Semantic, and Synthetic 3D Habitats](https://usm3d.github.io/),  in conjunction with CVPR 2026.
